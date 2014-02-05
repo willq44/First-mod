@@ -1,0 +1,21 @@
+
+[
+{
+  "modid": "FirstMod",
+  "name": "First Mod",
+  "description": "First mod test",
+  "version": "@VERSION@",
+  "url": "",
+  "updateUrl": "",
+  "authors": [
+    "Willq44"
+  ],
+  "credits": "By Willq44, Test mod",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
