@@ -1,8 +1,8 @@
 [
 {
-  "modid": "FirstMod",
+  "modid": "firstmod",
   "name": "First Mod",
-  "description": "First mod test",
+  "description": "First Mod test",
   "version": "0.0.1",
   "url": "",
   "updateUrl": "",
