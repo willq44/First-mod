@@ -4,7 +4,7 @@
   "modid": "FirstMod",
   "name": "First Mod",
   "description": "First mod test",
-  "version": "@VERSION@",
+  "version": "0.0.1",
   "url": "",
   "updateUrl": "",
   "authors": [
