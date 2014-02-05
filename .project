@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>First- mod</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Firstmod_common</name>
+			<type>2</type>
+			<location>C:/Users/Will/Documents/DEvelopment/source/First-mod/letsmod_common</location>
+		</link>
+		<link>
+			<name>resources</name>
+			<type>2</type>
+			<location>C:/Users/Will/Documents/DEvelopment/source/First-mod/resources</location>
+		</link>
+	</linkedResources>
+</projectDescription>
