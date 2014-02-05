@@ -3,6 +3,6 @@
 	<classpathentry kind="src" path="Firstmod_common"/>
 	<classpathentry kind="src" path="resources"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/Minecraft"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Minecraft"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
